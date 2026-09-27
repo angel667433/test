@@ -5,7 +5,7 @@
 
 guy_dict1 = {
     'name': 'Jimmer',
-    'age': '23',
+    'age': 23,
     'scout rank' : 'Eagle',
     'scout badges' : []
 }
